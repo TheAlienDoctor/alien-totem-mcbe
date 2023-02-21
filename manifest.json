@@ -1,9 +1,9 @@
 ﻿{
 	"format_version": 2,
 	"header": {
-		"description": "§rPACK DESCRIPTION | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
-		"name": "§1§lAlien's§r §ePack name §4(BP/RP-V1.0.0)§r",
-		"uuid": "UUID1 HERE",
+		"description": "§rChanges the totem to a custom Alien texture. Texture by VitaMoonshadow | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
+		"name": "§1§lAlien§r §eTotems §4(RP-V1.0.0)§r",
+		"uuid": "1804514d-073e-4c27-8954-722cb3f9458e",
 		"version": [
 			1,
 			0,
@@ -17,9 +17,9 @@
 	},
 	"modules": [
 		{
-			"description": "§rPACK DESCRIPTION | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
-			"type": "resources | data",
-			"uuid": "UUID2 HERE",
+			"description": "§rChanges the totem to a custom Alien texture. Texture by VitaMoonshadow | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
+			"type": "resources",
+			"uuid": "55c16c04-11fe-4211-aff2-47866fe38fc7",
 			"version": [
 				1,
 				0,
